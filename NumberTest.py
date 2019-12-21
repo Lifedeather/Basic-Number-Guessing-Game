@@ -21,5 +21,3 @@ while guess != number:
     
 else:
     print ("You got it good job") 
-git remote add origin https://github.com/Lifedeather/Basic-Number-Guessing-Game.git
-git push -u origin master
